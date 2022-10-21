@@ -1,0 +1,7 @@
+.container {
+  display: grid;
+  /* style the columns and rows here */
+  grid-template-columns: repeat(4, 90px);
+  grid-template-rows: 180px;
+  font-size: 30px;
+}
